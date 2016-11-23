@@ -35,6 +35,7 @@ body {
 .md1, .md2, .md3, .md4, .md5, .md6, .md7, .md8, .md9, .md10, .md11, .md12, .md13, .md14, .md15, .md16, .md17, .md18, .md19, .md20, .md21, .md22, .md23, .md24,
 .sm1, .sm2, .sm3, .sm4, .sm5, .sm6, .sm7, .sm8, .sm9, .sm10, .sm11, .sm12, .sm13, .sm14, .sm15, .sm16, .sm17, .sm18, .sm19, .sm20, .sm21, .sm22, .sm23, .sm24,
 .xs1, .xs2, .xs3, .xs4, .xs5, .xs6, .xs7, .xs8, .xs9, .xs10, .xs11, .xs12, .xs13, .xs14, .xs15, .xs16, .xs17, .xs18, .xs19, .xs20, .xs21, .xs22, .xs23, .xs24 {
+    min-height: 1px;
     padding-left: 5px;
     padding-right: 5px;
     position: relative;
