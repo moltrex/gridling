@@ -32,16 +32,11 @@ body {
 .xs1, .xs2, .xs3, .xs4, .xs5, .xs6, .xs7, .xs8, .xs9, .xs10, .xs11, .xs12, .xs13, .xs14, .xs15, .xs16, .xs17, .xs18, .xs19, .xs20, .xs21, .xs22, .xs23, .xs24 {
     position: relative;
 }
-<<<<<<< HEAD
 .xl1.center, .xl2.center, .xl3.center, .xl4.center, .xl5.center, .xl6.center, .xl7.center, .xl8.center, .xl9.center, .xl10.center, .xl11.center, .xl12.center, .xl13.center, .xl14.center, .xl15.center, .xl16.center, .xl17.center, .xl18.center, .xl19.center, .xl20.center, .xl21.center, .xl22.center, .xl23.center, .xl24.center,
 .lg1.center, .lg2.center, .lg3.center, .lg4.center, .lg5.center, .lg6.center, .lg7.center, .lg8.center, .lg9.center, .lg10.center, .lg11.center, .lg12.center, .lg13.center, .lg14.center, .lg15.center, .lg16.center, .lg17.center, .lg18.center, .lg19.center, .lg20.center, .lg21.center, .lg22.center, .lg23.center, .lg24.center,
 .md1.center, .md2.center, .md3.center, .md4.center, .md5.center, .md6.center, .md7.center, .md8.center, .md9.center, .md10.center, .md11.center, .md12.center, .md13.center, .md14.center, .md15.center, .md16.center, .md17.center, .md18.center, .md19.center, .md20.center, .md21.center, .md22.center, .md23.center, .md24.center,
 .sm1.center, .sm2.center, .sm3.center, .sm4.center, .sm5.center, .sm6.center, .sm7.center, .sm8.center, .sm9.center, .sm10.center, .sm11.center, .sm12.center, .sm13.center, .sm14.center, .sm15.center, .sm16.center, .sm17.center, .sm18.center, .sm19.center, .sm20.center, .sm21.center, .sm22.center, .sm23.center, .sm24.center,
 .xs1.center, .xs2.center, .xs3.center, .xs4.center, .xs5.center, .xs6.center, .xs7.center, .xs8.center, .xs9.center, .xs10.center, .xs11.center, .xs12.center, .xs13.center, .xs14.center, .xs15.center, .xs16.center, .xs17.center, .xs18.center, .xs19.center, .xs20.center, .xs21.center, .xs22.center, .xs23.center, .xs24.center {
-=======
-
-.center {
->>>>>>> origin/master
     float: none;
     margin-left: auto;
     margin-right: auto;
@@ -250,7 +245,7 @@ body {
     }
 }
 
-@media only screen and (min-width: 450px) {
+@media only screen and (min-width: 550px) {
     .sm1, .sm2, .sm3, .sm4, .sm5, .sm6, .sm7, .sm8, .sm9, .sm10, .sm11, .sm12, .sm13, .sm14, .sm15, .sm16, .sm17, .sm18, .sm19, .sm20, .sm21, .sm22, .sm23, .sm24 {
         float: left;
     }
@@ -315,7 +310,6 @@ body {
     }
 }
 
-<<<<<<< HEAD
 @media only screen and (min-width: 440px) {
     .xl1, .xl2, .xl3, .xl4, .xl5, .xl6, .xl7, .xl8, .xl9, .xl10, .xl11, .xl12, .xl13, .xl14, .xl15, .xl16, .xl17, .xl18, .xl19, .xl20, .xl21, .xl22, .xl23, .xl24 {
         float: left;
@@ -382,9 +376,6 @@ body {
 }
 
 @media only screen and (min-width: 320px) {
-=======
-@media only screen and (min-width: 300px) {
->>>>>>> origin/master
     .xl1, .xl2, .xl3, .xl4, .xl5, .xl6, .xl7, .xl8, .xl9, .xl10, .xl11, .xl12, .xl13, .xl14, .xl15, .xl16, .xl17, .xl18, .xl19, .xl20, .xl21, .xl22, .xl23, .xl24 {
         float: left;
     }
