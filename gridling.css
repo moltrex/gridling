@@ -13,6 +13,7 @@ body {
     margin: 0;
     padding: 0;
 }
+/* ***  GRID *** */
 .container {
     padding-left: 5px;
     padding-right: 5px;
@@ -452,3 +453,34 @@ body {
         width: 100%;
     }
 }
+
+
+/* *** INPUT *** */
+.input-control::-moz-placeholder, .input-control::-webkit-placeholder, .input-control::-ms-placeholder, .input-control::-o-placeholder {
+    color: inherit;
+    opacity: 1;
+}
+.input-control {
+    -moz-appearance: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    color: inherit;
+    display: block;
+    font-family: inherit;
+    font-size: 14px;
+    height: 35px;
+    line-height: 35px;
+    padding: 5px;
+    width: 100%;
+}
+.input-control:focus {
+    background-color: #fff;
+    border: 1px solid #999;
+    outline: medium none;
+}
+textarea[rows]{height: auto}
