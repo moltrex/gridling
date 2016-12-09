@@ -1,0 +1,28 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    color: #555;
+}
+
+/* *** header *** */
+.logo-wrap {
+	padding: 5px 0
+}
+.logo-wrap img {
+    height: 35px;
+}
+ul.main-menu {
+    margin: 0;
+    padding: 0;
+}
+ul.main-menu li {
+    display: inline-block;
+    float: left;
+    list-style: outside none none;
+}
+ul.main-menu a {
+    color: #555;
+    font-weight: 700;
+    line-height: 50px;
+    margin: 0 5px;
+    padding: 5px;
+}
