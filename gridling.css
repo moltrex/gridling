@@ -56,15 +56,11 @@ a, a:hover, a:focus {color: #76be6c; text-decoration: none}
 .lg1, .lg2, .lg3, .lg4, .lg5, .lg6, .lg7, .lg8, .lg9, .lg10, .lg11, .lg12, .lg13, .lg14, .lg15, .lg16, .lg17, .lg18, .lg19, .lg20, .lg21, .lg22, .lg23, .lg24,
 .md1, .md2, .md3, .md4, .md5, .md6, .md7, .md8, .md9, .md10, .md11, .md12, .md13, .md14, .md15, .md16, .md17, .md18, .md19, .md20, .md21, .md22, .md23, .md24,
 .sm1, .sm2, .sm3, .sm4, .sm5, .sm6, .sm7, .sm8, .sm9, .sm10, .sm11, .sm12, .sm13, .sm14, .sm15, .sm16, .sm17, .sm18, .sm19, .sm20, .sm21, .sm22, .sm23, .sm24,
-.xs1, .xs2, .xs3, .xs4, .xs5, .xs6, .xs7, .xs8, .xs9, .xs10, .xs11, .xs12, .xs13, .xs14, .xs15, .xs16, .xs17, .xs18, .xs19, .xs20, .xs21, .xs22, .xs23, .xs24,
-.xl, .lg, .md, .sm, .xs {
+.xs1, .xs2, .xs3, .xs4, .xs5, .xs6, .xs7, .xs8, .xs9, .xs10, .xs11, .xs12, .xs13, .xs14, .xs15, .xs16, .xs17, .xs18, .xs19, .xs20, .xs21, .xs22, .xs23, .xs24 {
     min-height: 1px;
     padding-left: 5px;
     padding-right: 5px;
     position: relative;
-}
-.xl, .lg, .md, .sm, .xs {
-    overflow: auto
 }
 .clean-col {
     padding-left: 0;
