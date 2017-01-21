@@ -4,8 +4,16 @@
 }
 
 /* *** header *** */
+.header {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
 .logo-wrap {
-	padding: 5px 0
+	padding: 5px 0;
+    width: auto;
 }
 .logo-wrap img {
     height: 35px;
@@ -25,4 +33,18 @@ ul.main-menu a {
     line-height: 50px;
     margin: 0 5px;
     padding: 5px;
+}
+/* *** main img *** */
+.bimg {
+    background-attachment: fixed;
+    background-image: url('agb.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 350px;
+    margin-top: 50px;
+}
+.bimg-message-wrap {
+    text-align: center;
+    padding: 100px 0;
 }
