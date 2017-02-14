@@ -48,3 +48,6 @@ ul.main-menu a {
     text-align: center;
     padding: 100px 0;
 }
+.sidebar {
+    width: 250px;
+}
